@@ -4,15 +4,15 @@
 # 🎉 Conjunto de API, para desenvolvedores.
 Transforme seus projetos em soluções inteligentes com nossa API. Com recursos como  API do WhatsApp, geolocalização, rastreamento de encomendas, verificação de CPF/CNPJ e mais, você pode criar soluções eficientes e funcionais. Comece agora.
  
-✅ API WhatsApp
-✅ API Clima
-✅ API Veículos
-✅ API Placa FIPE
-✅ API Geolocalização
-✅ API Rastreio
-✅ API CPF Full
-✅ API CNPJ por CNAE/CEP/UF
-
+✅ API WhatsApp <br />
+✅ API Clima <br />
+✅ API Veículos <br />
+✅ API Placa FIPE <br />
+✅ API Geolocalização<br />
+✅ API Rastreio<br />
+✅ API CPF Full<br />
+✅ API CNPJ por CNAE/CEP/UF<br />
+<br />
 🎉 *Nova API: API CEP Com Geolocalização, Lat e Long + IBGE + Faixa de CEPS.*
 
 ## Documentações
