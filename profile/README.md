@@ -36,4 +36,9 @@ npm i apigratis-sdk-nodejs
 pip install apigratis-sdk-python
 ```
 
+## Package C# 
+```c#
+dotnet add package ApiBrasil --version 1.1.2
+```
+
 <a href="https://apibrasil.com.br"> APIBRASIL </a> | <a href="https://divulgawhats.com"> DivulgaWhats </a>
