@@ -4,18 +4,31 @@
 
 Transforme seus projetos em soluções inteligentes com nossa API. Com recursos como  API do WhatsApp, geolocalização, rastreamento de encomendas, verificação de CPF/CNPJ e mais, você pode criar soluções eficientes e funcionais. Comece agora.
  
-✅ API WhatsApp <br />
-✅ API Evolution <br />
-✅ API Clima <br />
-✅ API Veículos <br />
-✅ API Placa FIPE <br />
-✅ API Geolocalização<br />
-✅ API Rastreio<br />
-✅ API CPF Débitos<br />
-✅ API CPF Full<br />
-✅ API CNPJ por CNAE/CEP/UF<br />
-<br />
-🎉 *Nova API: API CEP Com Geolocalização, Lat e Long + IBGE + Faixa de CEPS.*
+✅ API WhatsApp<br/>
+✅ API Dados CPF<br/>
+✅ API CPF SPC/Serasa<br/>
+✅ API CNPJ por CNAE/CEP/UF<br/>
+<br/>
+✅ API Veículos Dados<br/>
+✅ API Tabela FIPE<br/>
+✅ API Leilão Veículos<br/>
+✅ API Veículos Base Estadual<br/>
+✅ API Decoder Placa<br/>
+✅ API Placa FIPE<br/>
+<br/>
+✅ API Geolocalização<br/>
+✅ API Rastreio Encomendas<br/>
+✅ API Dados Clima<br/>
+✅ API Feriados Nacionais<br/>
+✅ API DDD Anatel<br/>
+✅ API Calcula Distancia CEP<br/>
+<br/>
+🎉 Nova API: API CEP Com Geolocalização, Lat e Long + IBGE + Faixa de CEPS.
+<br/>
+E muito mais...
+<br/><br/>
+Comece agora:<br/>
+👉 https://app.apibrasil.io/auth/register?ref=41eae
 
 ## Documentações
 https://apibrasil.com.br/documentacoes
