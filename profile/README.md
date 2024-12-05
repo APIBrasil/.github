@@ -46,10 +46,18 @@ composer require jhowbhz/apigratis-sdk-php
 npm i apigratis-sdk-nodejs
 ```
 
-## Package Python
-```pyhon
-pip install apigratis-sdk-python
+# Pacote Pip Python 
+```pip install apigratis-sdk-python``` 
+
+Nós temos uma novidade para você desenvolvedor Python! 👨‍💻 Nós temos uma nova [SDK](https://pypi.org/project/api-brasil/) cheia de novas funcionalidades, recursos e um pouco mais fácil de usar para facilitar a sua vida.
+No futuro, queremos depreciar essa versão atual "apigratis-sdk-python" e substituir por essa que acaba de sair do forno, acesse o [repo oficial](https://github.com/ivanildobarauna-dev/apibrasil-py) e saiba mais sobre como instalar e usufruir do que desenvolvemos. Caso você já queira usar a nova versão, você já pode com o seguinte comando:
+
+```bash
+pip install api-brasil
 ```
+
+Aproveite!
+
 
 ## Package C# 
 ```c#
