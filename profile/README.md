@@ -20,7 +20,6 @@ Transforme seus projetos em soluções inteligentes com nossa API. Com recursos 
 ✅ API Placa Dados<br/>
 ✅ API Placa FIPE<br/>
 ✅ API Tabela FIPE<br/>
-
 <br/>
 ✅ API Geolocalização<br/>
 ✅ API Rastreio Encomendas<br/>
