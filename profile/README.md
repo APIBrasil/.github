@@ -1,4 +1,5 @@
-<img src="https://github.com/APIBrasil/.github/assets/31408451/20e20d07-fece-4206-82cb-43b8f2fbfa50" />
+<img width="1672" height="941" alt="anti-fraude-capa" src="https://github.com/user-attachments/assets/2ae969af-0807-4cf0-9df8-7f765f446937" />
+
 
 # APIBRASIL ® (Oficial)
 
