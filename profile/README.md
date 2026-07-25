@@ -7,10 +7,10 @@
   />
 </p>
 
-<h1 align="center">APIBrasil®</h1>
+<h1 align="center">APIBrasil</h1>
 
 <p align="center">
-  APIs profissionais para integrar dados, automações, comunicação e consultas em seus projetos.
+  API's profissionais para integrar dados, automações, comunicação e consultas em seus projetos.
 </p>
 
 <p align="center">
